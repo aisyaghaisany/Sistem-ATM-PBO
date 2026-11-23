@@ -5,7 +5,7 @@ Sistem ATM merupakan aplikasi berbasis Java yang dibuat untuk memenuhi tugas Uji
 
 Aplikasi ini dibuat untuk menggambarkan sistem layanan ATM yang melibatkan pengelolaan nasabah, rekening, dan transaksi.
 
-## Anggota Kelompok
+## Anggota Kelompok 3
 
 1. **Aisya Ghaisany** – 250810701100029
 2. **Salwa**
